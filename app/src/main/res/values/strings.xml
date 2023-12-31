@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Text to PDF Converter</string>
+    <string name="convert_to_pdf">Convert to PDF</string>
+    <string name="enter_text_to_convert">Enter text to convert</string>
+</resources>
